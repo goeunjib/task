@@ -11,7 +11,7 @@
 
 이 아래로 내용 작성
 
-![picture alt](file:///C:/eunji/0313..git/task/image.png/200x150 "image.png")
+![picture alt](file:///C:/eunji/0313..git/task/image.png/649x514 "image.png")
 
 # 230310 배운 내용 #
 
