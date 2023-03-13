@@ -11,7 +11,7 @@
 
 이 아래로 내용 작성
 
-![picture alt](https://ibb.co/gjL3H90.jpg)
+![picture alt](https://ibb.co/gjL3H90)
 
 # 230310 배운 내용 #
 
